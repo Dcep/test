@@ -1,2 +1,2 @@
 #!/bin/bash
-py.test --junitxml=junit-test.xml
+py.test --junitxml=junit/junit-test.xml
