@@ -3,7 +3,7 @@ from funct import funct
 
 def test_run():
 	assert funct(1,2) == 2
-	assert funct(2,3) == 7
+	assert funct(2,3) == 6
 
 def test_run2():
 	assert funct(2,4) == 8
