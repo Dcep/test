@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skips="0" tests="2" time="0.016"><testcase classname="test_funct" file="test_funct.py" line="3" name="test_run" time="0.000513076782227"><failure message="assert 6 == 7
- +  where 6 = funct(2, 3)">def test_run():
-    	assert funct(1,2) == 2
-&gt;   	assert funct(2,3) == 7
-E    assert 6 == 7
-E     +  where 6 = funct(2, 3)
-
-test_funct.py:6: AssertionError</failure></testcase><testcase classname="test_funct" file="test_funct.py" line="7" name="test_run2" time="0.000318050384521"></testcase></testsuite>

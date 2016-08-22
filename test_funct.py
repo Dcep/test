@@ -8,4 +8,3 @@ def test_run():
 def test_run2():
 	assert funct(2,4) == 8
 	assert funct(3,4) == 12
-#run_test()
